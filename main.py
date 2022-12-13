@@ -76,7 +76,32 @@ print(aDict)
 print(aDict["Marks"])#gets updated
 #.pop, .del, .clear, .update 
 
-
+'''
+OUTPUT:-
+Hello World!
+13
+25
+3
+31.0
+<class 'str'>
+Tony
+Length of string is 12
+Does your dog bite?
+Does your dog bite?
+[61, 2, 45, 4, 6, 41, 100]
+[2, 45, 4, 6, 41, 100]
+[2, 45, 4, 6, 41]
+[2, 45, 4, 41]
+[]
+<class 'tuple'>
+{33, 2, 3, 4, 5, 6, 7, 8, 12, 44, 22, 56, 444}
+13
+{2, 3, 4, 5, 6, 7, 8, 12, 44, 22, 56, 444}
+{'Name': 'Anvita', 'Class': '11th', 'Marks': 33}
+33
+{'Name': 'Anvita', 'Class': '11th', 'Marks': 36}
+36
+'''
 
 
 
